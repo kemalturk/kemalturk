@@ -16,12 +16,26 @@
 
 <br>
 
+<p align="center">
+  Hi, I'm Kemal TÜRK, Computer Engineer & Software Developer from Turkey
+  <br>
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning Artificial Intelligence with Python
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/kemalturk/kemalturk/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: kmltrk07@gmail.com">kmltrk07@gmail.com</a>
+</p>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
+  <code><img title="iOS" height="25" src="images/ios-logo.png"></code>
+  <code><img title="Swift" height="25" src="images/swift-logo.png"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
@@ -35,6 +49,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
 <hr>
 
