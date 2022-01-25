@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm Kemal TÜRK, Computer Engineer & Software Developer from Turkey
+  Hi, I'm Kemal TÜRK, iOS Developer from Turkey
   <br>
   <br>
   💻 I love writing code and learn anythings about it
