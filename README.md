@@ -26,7 +26,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/kemalturk/kemalturk/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: kmltrk07@gmail.com">kmltrk07@gmail.com</a>
+  📫 How to reach me: <a href="mailto: contact@kemalturk.com">contact@kemalturk.com</a>
   <br>
   <a href="https://kemalturk.com" title="Website">kemalturk.com</a>
 </p>
